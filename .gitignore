@@ -20,3 +20,7 @@ venv/*
 # Environment variables
 .env
 pyvenv.txt
+
+
+.nx/cache
+.nx/workspace-data

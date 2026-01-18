@@ -1,7 +1,11 @@
-{ 
+{
   "scripts": {
     "build": "next build",
     "lint": "eslint ./src",
     "test": "node ./run-tests.js"
-  }
+  },
+  "devDependencies": {
+    "nx": "22.3.3"
+  },
+  "nx": {}
 }
