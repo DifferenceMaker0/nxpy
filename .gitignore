@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+.Python
+build/
+dist/
+venv/
+org/
+
+# venv .venv
+.venv/
+.venv/*
+venv/
+venv/*
+
+# Environment variables
+.env
+pyvenv.txt
